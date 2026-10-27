@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6ae0d2562824747c7d3558e0"
+  },
+  "student_id": "S001",
+  "name": "Pasin Makcharoen",
+  "age": 19,
+  "department": "Engineering",
+  "gpa": 2.7,
+  "courses": [
+    "Math",
+    "Science"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ae0d2c72824747c7d3558e1"
+  },
+  "student_id": "S002",
+  "name": "Temp",
+  "age": 19,
+  "department": "Engineering",
+  "gpa": 3,
+  "courses": [
+    "Math"
+  ]
+}]

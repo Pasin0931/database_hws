@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6ae0d3cdfb15f05eead87772"
+  },
+  "username": "Pasin",
+  "caption": "Image lol",
+  "image_url": "https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-photos&ved=0CBcQjRxqFwoTCPD5r7vR2pcDFQAAAAAdAAAAABAF&opi=89978449",
+  "created_at": {
+    "$date": "2026-10-27T23:39:41.782Z"
+  },
+  "comments": []
+},
+{
+  "_id": {
+    "$oid": "6ae0d3f1fb15f05eead87773"
+  },
+  "username": "Pasin",
+  "caption": "beautiful",
+  "image_url": "https://cdn.pixabay.com/photo/2024/05/26/10/15/bird-8788491_1280.jpg",
+  "created_at": {
+    "$date": "2026-10-27T23:40:17.727Z"
+  },
+  "comments": []
+},
+{
+  "_id": {
+    "$oid": "6ae0d4dbfb15f05eead87775"
+  },
+  "username": "Plummet",
+  "caption": "is this a dogg ??",
+  "image_url": "https://gratisography.com/wp-content/uploads/2025/01/gratisography-dog-vacation-800x525.jpg",
+  "created_at": {
+    "$date": "2026-10-27T23:44:11.553Z"
+  },
+  "comments": []
+}]
